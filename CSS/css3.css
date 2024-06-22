@@ -1,0 +1,51 @@
+body {
+    background-color: antiquewhite;
+}
+
+p1 {
+    text-align: center;
+    font-family: "Prompt", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+div1 {
+    text-align: center;
+    font-family: "Prompt", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+img {
+    position: relative;
+    top: 5px;
+    left: 660px;
+}
+
+div2 {
+    text-align: center;
+    font-family: "Prompt", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+div3 {
+    text-align: center;
+    font-family: "Prompt", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+div4 {
+    text-align: center;
+    font-family: "Prompt", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+div5 {
+    text-align: center;
+    font-family: "Prompt", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
